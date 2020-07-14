@@ -95,6 +95,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
+* [f8upd8's Solution (Difficult)](https://github.com/f8upd8/GoogleSearchPageClone) - [View in Browser](https://f8upd8.github.io/GoogleSearchPageClone/)
 * [cameronfrost's Solution (Easy)](https://github.com/cameronfrost/google-clone) - [View in Browser](https://cameronfrost.github.io/google-clone/)
 * [Aaron Hong's Solution (Easy)](https://github.com/aaronjghong/google-homepage) - [View in Browser](https://aaronjghong.github.io/google-homepage/)
 * [singodimejo's Solution (Easy)](https://github.com/singodimejo/google-homepage) - [View in Browser](https://singodimejo.github.io/google-homepage)
